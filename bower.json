@@ -1,0 +1,35 @@
+{
+  "name": "flot-animator",
+  "version": "master",
+  "main": "jquery.flot.animator.js",
+  "dependencies": {
+    "jquery": ">= 1.2.6",
+    "Flot": "latest"
+  },
+  "homepage": "https://github.com/Codicode/flotanimator",
+  "authors": [
+    "Ole Laursen"
+  ],
+  "keywords": [
+    "chart",
+    "plot",
+    "graph",
+    "visualization",
+    "canvas",
+    "graphics"
+  ],
+  "description": "Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "*.md",
+    "*.json",
+    "*.txt"
+  ]
+}
+
