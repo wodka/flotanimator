@@ -3,8 +3,7 @@
   "version": "master",
   "main": "jquery.flot.animator.js",
   "dependencies": {
-    "jquery": ">= 1.2.6",
-    "Flot": "flot/flot#0.9-work"
+    "jquery": ">= 1.2.6"
   },
   "homepage": "https://github.com/Codicode/flotanimator",
   "authors": [
