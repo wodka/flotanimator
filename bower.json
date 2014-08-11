@@ -2,9 +2,7 @@
   "name": "flot-animator",
   "version": "master",
   "main": "jquery.flot.animator.js",
-  "dependencies": {
-    "jquery": ">= 1.2.6"
-  },
+  "dependencies": {},
   "homepage": "https://github.com/Codicode/flotanimator",
   "authors": [
     "Ole Laursen"
